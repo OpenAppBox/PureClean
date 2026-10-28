@@ -1,0 +1,1158 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleDisplayName" : {
+      "comment" : "Bundle display name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        }
+      }
+    },
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean"
+          }
+        }
+      }
+    },
+    "NSDesktopFolderUsageDescription" : {
+      "comment" : "Permission prompt: Desktop folder",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ PureClean الملفات الموجودة على سطح المكتب ليعرض ما يشغل المساحة ويعثر على الملفات الكبيرة أو المكررة، مثل نسختين من الصورة نفسها. لا يُنقل أي شيء إلى سلة المهملات حتى تراجعه وتؤكده."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean læser filerne på dit skrivebord for at vise, hvad der fylder, og finde store filer eller dubletter, for eksempel to kopier af det samme billede. Intet flyttes til papirkurven, før du har gennemgået og bekræftet det."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean liest die Dateien auf deinem Schreibtisch, um zu zeigen, was Platz belegt, und große oder doppelte Dateien zu finden, zum Beispiel zwei Kopien desselben Fotos. Nichts kommt in den Papierkorb, bevor du es geprüft und bestätigt hast."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean reads the files on your Desktop to show what uses space and to find large or duplicate files, for example two copies of the same photo. Nothing is moved to the Trash until you review and confirm it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lee los archivos de tu Escritorio para mostrar qué ocupa espacio y encontrar archivos grandes o duplicados, por ejemplo, dos copias de la misma foto. Nada se mueve a la Papelera hasta que lo revises y confirmes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lukee työpöytäsi tiedostot näyttääkseen, mikä vie tilaa, ja löytääkseen suuret tiedostot tai kaksoiskappaleet, esimerkiksi kaksi kopiota samasta kuvasta. Mitään ei siirretä roskakoriin ennen kuin olet tarkistanut ja vahvistanut sen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lit les fichiers de votre Bureau pour montrer ce qui occupe de l’espace et trouver les fichiers volumineux ou en double, par exemple deux copies de la même photo. Rien n’est placé dans la Corbeille avant que vous l’ayez vérifié et confirmé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean आपके डेस्कटॉप की फ़ाइलें पढ़ता है ताकि दिखा सके कि जगह किसमें लगी है और बड़ी या डुप्लिकेट फ़ाइलें ढूँढ सके, जैसे एक ही फ़ोटो की दो कॉपियाँ। जब तक आप समीक्षा करके पुष्टि नहीं करते, कुछ भी ट्रैश में नहीं जाता।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean membaca file di Desktop Anda untuk menunjukkan apa yang memakan ruang dan menemukan file besar atau duplikat, misalnya dua salinan foto yang sama. Tidak ada yang dipindahkan ke Sampah sebelum Anda meninjau dan mengonfirmasinya."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean legge i file della tua Scrivania per mostrare cosa occupa spazio e trovare file grandi o duplicati, per esempio due copie della stessa foto. Nulla viene spostato nel Cestino finché non lo hai controllato e confermato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean はデスクトップのファイルを読み取り、何が容量を使っているかを表示して、大きなファイルや重複ファイル（同じ写真の2つのコピーなど）を見つけます。確認して承認するまで、何もゴミ箱に移動されません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean은 데스크탑의 파일을 읽어 무엇이 공간을 차지하는지 보여 주고, 큰 파일이나 중복 파일(예: 같은 사진의 사본 두 개)을 찾습니다. 검토하고 확인하기 전에는 아무것도 휴지통으로 이동하지 않습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leser filene på skrivebordet ditt for å vise hva som tar plass, og finne store filer eller duplikater, for eksempel to kopier av det samme bildet. Ingenting flyttes til papirkurven før du har gått gjennom og bekreftet det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leest de bestanden op je bureaublad om te laten zien wat ruimte inneemt en grote of dubbele bestanden te vinden, bijvoorbeeld twee kopieën van dezelfde foto. Niets gaat naar de prullenmand voordat je het hebt bekeken en bevestigd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean odczytuje pliki na biurku, aby pokazać, co zajmuje miejsce, i znaleźć duże lub zduplikowane pliki, na przykład dwie kopie tego samego zdjęcia. Nic nie trafia do kosza, dopóki tego nie przejrzysz i nie potwierdzisz."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PureClean lê os arquivos da sua Mesa para mostrar o que ocupa espaço e encontrar arquivos grandes ou duplicados, por exemplo, duas cópias da mesma foto. Nada vai para o Lixo até você revisar e confirmar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean читает файлы на Рабочем столе, чтобы показать, что занимает место, и найти большие файлы или дубликаты, например две копии одной и той же фотографии. Ничего не перемещается в Корзину, пока вы не просмотрите и не подтвердите это."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean läser filerna på ditt skrivbord för att visa vad som tar plats och hitta stora filer eller dubbletter, till exempel två kopior av samma bild. Ingenting flyttas till papperskorgen förrän du har granskat och bekräftat det."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean อ่านไฟล์บนเดสก์ท็อปของคุณเพื่อแสดงว่าอะไรใช้พื้นที่ และค้นหาไฟล์ขนาดใหญ่หรือไฟล์ซ้ำ เช่น รูปภาพเดียวกันสองชุด จะไม่มีสิ่งใดถูกย้ายไปที่ถังขยะจนกว่าคุณจะตรวจสอบและยืนยัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean, neyin yer kapladığını göstermek ve büyük ya da kopya dosyaları (örneğin aynı fotoğrafın iki kopyasını) bulmak için Masaüstünüzdeki dosyaları okur. Siz gözden geçirip onaylamadan hiçbir şey Çöp Sepetine taşınmaz."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean đọc các tệp trên Màn hình nền của bạn để cho biết thứ gì đang chiếm dung lượng và tìm các tệp lớn hoặc trùng lặp, ví dụ hai bản sao của cùng một ảnh. Không có gì được chuyển vào Thùng rác cho đến khi bạn xem lại và xác nhận."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 会读取桌面上的文件，以显示哪些内容占用空间，并找出大文件或重复文件，例如同一张照片的两个副本。在你检查并确认之前，不会有任何内容被移到废纸篓。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 會讀取桌面上的檔案，以顯示哪些內容佔用空間，並找出大型檔案或重複檔案，例如同一張照片的兩份拷貝。在你檢查並確認之前，不會有任何項目被移到垃圾桶。"
+          }
+        }
+      }
+    },
+    "NSDocumentsFolderUsageDescription" : {
+      "comment" : "Permission prompt: Documents folder",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ PureClean الملفات الموجودة في «المستندات» ليعرض ما يشغل المساحة ويعثر على الملفات الكبيرة أو المكررة، مثل ملف PDF نفسه محفوظًا مرتين. لا يُنقل أي شيء إلى سلة المهملات حتى تراجعه وتؤكده."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean læser filerne i Dokumenter for at vise, hvad der fylder, og finde store filer eller dubletter, for eksempel den samme PDF gemt to gange. Intet flyttes til papirkurven, før du har gennemgået og bekræftet det."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean liest die Dateien in „Dokumente“, um zu zeigen, was Platz belegt, und große oder doppelte Dateien zu finden, zum Beispiel dasselbe PDF, zweimal gesichert. Nichts kommt in den Papierkorb, bevor du es geprüft und bestätigt hast."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean reads the files in Documents to show what uses space and to find large or duplicate files, for example the same PDF saved twice. Nothing is moved to the Trash until you review and confirm it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lee los archivos de Documentos para mostrar qué ocupa espacio y encontrar archivos grandes o duplicados, por ejemplo, el mismo PDF guardado dos veces. Nada se mueve a la Papelera hasta que lo revises y confirmes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lukee Dokumentit-kansion tiedostot näyttääkseen, mikä vie tilaa, ja löytääkseen suuret tiedostot tai kaksoiskappaleet, esimerkiksi saman PDF:n kahdesti tallennettuna. Mitään ei siirretä roskakoriin ennen kuin olet tarkistanut ja vahvistanut sen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lit les fichiers du dossier Documents pour montrer ce qui occupe de l’espace et trouver les fichiers volumineux ou en double, par exemple le même PDF enregistré deux fois. Rien n’est placé dans la Corbeille avant que vous l’ayez vérifié et confirmé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean दस्तावेज़ फ़ोल्डर की फ़ाइलें पढ़ता है ताकि दिखा सके कि जगह किसमें लगी है और बड़ी या डुप्लिकेट फ़ाइलें ढूँढ सके, जैसे दो बार सेव की गई एक ही PDF। जब तक आप समीक्षा करके पुष्टि नहीं करते, कुछ भी ट्रैश में नहीं जाता।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean membaca file di Dokumen untuk menunjukkan apa yang memakan ruang dan menemukan file besar atau duplikat, misalnya PDF yang sama yang disimpan dua kali. Tidak ada yang dipindahkan ke Sampah sebelum Anda meninjau dan mengonfirmasinya."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean legge i file di Documenti per mostrare cosa occupa spazio e trovare file grandi o duplicati, per esempio lo stesso PDF salvato due volte. Nulla viene spostato nel Cestino finché non lo hai controllato e confermato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean は“書類”フォルダのファイルを読み取り、何が容量を使っているかを表示して、大きなファイルや重複ファイル（2回保存した同じPDFなど）を見つけます。確認して承認するまで、何もゴミ箱に移動されません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean은 “문서” 폴더의 파일을 읽어 무엇이 공간을 차지하는지 보여 주고, 큰 파일이나 중복 파일(예: 두 번 저장된 같은 PDF)을 찾습니다. 검토하고 확인하기 전에는 아무것도 휴지통으로 이동하지 않습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leser filene i Dokumenter for å vise hva som tar plass, og finne store filer eller duplikater, for eksempel den samme PDF-en lagret to ganger. Ingenting flyttes til papirkurven før du har gått gjennom og bekreftet det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leest de bestanden in Documenten om te laten zien wat ruimte inneemt en grote of dubbele bestanden te vinden, bijvoorbeeld dezelfde pdf die twee keer is bewaard. Niets gaat naar de prullenmand voordat je het hebt bekeken en bevestigd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean odczytuje pliki w folderze Dokumenty, aby pokazać, co zajmuje miejsce, i znaleźć duże lub zduplikowane pliki, na przykład ten sam plik PDF zapisany dwa razy. Nic nie trafia do kosza, dopóki tego nie przejrzysz i nie potwierdzisz."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PureClean lê os arquivos de Documentos para mostrar o que ocupa espaço e encontrar arquivos grandes ou duplicados, por exemplo, o mesmo PDF salvo duas vezes. Nada vai para o Lixo até você revisar e confirmar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean читает файлы в папке «Документы», чтобы показать, что занимает место, и найти большие файлы или дубликаты, например один и тот же PDF, сохранённый дважды. Ничего не перемещается в Корзину, пока вы не просмотрите и не подтвердите это."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean läser filerna i Dokument för att visa vad som tar plats och hitta stora filer eller dubbletter, till exempel samma PDF sparad två gånger. Ingenting flyttas till papperskorgen förrän du har granskat och bekräftat det."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean อ่านไฟล์ในโฟลเดอร์เอกสารเพื่อแสดงว่าอะไรใช้พื้นที่ และค้นหาไฟล์ขนาดใหญ่หรือไฟล์ซ้ำ เช่น PDF เดียวกันที่บันทึกไว้สองครั้ง จะไม่มีสิ่งใดถูกย้ายไปที่ถังขยะจนกว่าคุณจะตรวจสอบและยืนยัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean, neyin yer kapladığını göstermek ve büyük ya da kopya dosyaları (örneğin iki kez kaydedilmiş aynı PDF’yi) bulmak için Belgeler klasöründeki dosyaları okur. Siz gözden geçirip onaylamadan hiçbir şey Çöp Sepetine taşınmaz."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean đọc các tệp trong Tài liệu để cho biết thứ gì đang chiếm dung lượng và tìm các tệp lớn hoặc trùng lặp, ví dụ cùng một tệp PDF được lưu hai lần. Không có gì được chuyển vào Thùng rác cho đến khi bạn xem lại và xác nhận."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 会读取“文稿”中的文件，以显示哪些内容占用空间，并找出大文件或重复文件，例如保存了两次的同一个 PDF。在你检查并确认之前，不会有任何内容被移到废纸篓。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 會讀取「文件」中的檔案，以顯示哪些內容佔用空間，並找出大型檔案或重複檔案，例如儲存了兩次的同一個 PDF。在你檢查並確認之前，不會有任何項目被移到垃圾桶。"
+          }
+        }
+      }
+    },
+    "NSDownloadsFolderUsageDescription" : {
+      "comment" : "Permission prompt: Downloads folder",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ PureClean الملفات الموجودة في «التنزيلات» ليعثر على برامج التثبيت والملفات الكبيرة التي ربما لم تعد بحاجة إليها، مثل ملف ‎.dmg لتطبيق مثبّت بالفعل. لا يُنقل أي شيء إلى سلة المهملات حتى تراجعه وتؤكده."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean læser filerne i Overførsler for at finde installationsfiler og store filer, du måske ikke længere har brug for, for eksempel .dmg-filen fra en app, du allerede har installeret. Intet flyttes til papirkurven, før du har gennemgået og bekræftet det."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean liest die Dateien in „Downloads“, um Installationsprogramme und große Dateien zu finden, die du vielleicht nicht mehr brauchst, zum Beispiel die .dmg-Datei einer bereits installierten App. Nichts kommt in den Papierkorb, bevor du es geprüft und bestätigt hast."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean reads the files in Downloads to find installers and large files you may no longer need, for example the .dmg of an app you already installed. Nothing is moved to the Trash until you review and confirm it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lee los archivos de Descargas para encontrar instaladores y archivos grandes que quizá ya no necesites, por ejemplo, el .dmg de una app que ya está instalada. Nada se mueve a la Papelera hasta que lo revises y confirmes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lukee Lataukset-kansion tiedostot löytääkseen asennusohjelmat ja suuret tiedostot, joita et ehkä enää tarvitse, esimerkiksi jo asennetun apin .dmg-tiedoston. Mitään ei siirretä roskakoriin ennen kuin olet tarkistanut ja vahvistanut sen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lit les fichiers du dossier Téléchargements pour trouver les programmes d’installation et les gros fichiers dont vous n’avez peut-être plus besoin, par exemple le .dmg d’une app déjà installée. Rien n’est placé dans la Corbeille avant que vous l’ayez vérifié et confirmé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean डाउनलोड फ़ोल्डर की फ़ाइलें पढ़ता है ताकि इंस्टॉलर और बड़ी फ़ाइलें ढूँढ सके जिनकी शायद अब आपको ज़रूरत नहीं, जैसे पहले से इंस्टॉल किए गए ऐप की .dmg फ़ाइल। जब तक आप समीक्षा करके पुष्टि नहीं करते, कुछ भी ट्रैश में नहीं जाता।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean membaca file di Unduhan untuk menemukan penginstal dan file besar yang mungkin tidak Anda perlukan lagi, misalnya file .dmg dari app yang sudah terinstal. Tidak ada yang dipindahkan ke Sampah sebelum Anda meninjau dan mengonfirmasinya."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean legge i file di Download per trovare programmi di installazione e file grandi che forse non ti servono più, per esempio il .dmg di un’app già installata. Nulla viene spostato nel Cestino finché non lo hai controllato e confermato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean は“ダウンロード”フォルダのファイルを読み取り、もう不要かもしれないインストーラや大きなファイル（インストール済みのアプリの .dmg など）を見つけます。確認して承認するまで、何もゴミ箱に移動されません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean은 “다운로드” 폴더의 파일을 읽어 더 이상 필요 없을 수 있는 설치 프로그램과 큰 파일(예: 이미 설치한 앱의 .dmg)을 찾습니다. 검토하고 확인하기 전에는 아무것도 휴지통으로 이동하지 않습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leser filene i Nedlastinger for å finne installasjonsprogrammer og store filer du kanskje ikke trenger lenger, for eksempel .dmg-filen til en app du allerede har installert. Ingenting flyttes til papirkurven før du har gått gjennom og bekreftet det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leest de bestanden in Downloads om installatieprogramma's en grote bestanden te vinden die je misschien niet meer nodig hebt, bijvoorbeeld de .dmg van een app die al is geïnstalleerd. Niets gaat naar de prullenmand voordat je het hebt bekeken en bevestigd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean odczytuje pliki w folderze Pobrane, aby znaleźć instalatory i duże pliki, których być może już nie potrzebujesz, na przykład plik .dmg aplikacji, która jest już zainstalowana. Nic nie trafia do kosza, dopóki tego nie przejrzysz i nie potwierdzisz."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PureClean lê os arquivos de Downloads para encontrar instaladores e arquivos grandes de que você talvez não precise mais, por exemplo, o .dmg de um app já instalado. Nada vai para o Lixo até você revisar e confirmar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean читает файлы в папке «Загрузки», чтобы найти установщики и большие файлы, которые, возможно, вам больше не нужны, например .dmg уже установленного приложения. Ничего не перемещается в Корзину, пока вы не просмотрите и не подтвердите это."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean läser filerna i Hämtade filer för att hitta installationsprogram och stora filer som du kanske inte behöver längre, till exempel .dmg-filen för en app som redan är installerad. Ingenting flyttas till papperskorgen förrän du har granskat och bekräftat det."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean อ่านไฟล์ในโฟลเดอร์ดาวน์โหลดเพื่อค้นหาตัวติดตั้งและไฟล์ขนาดใหญ่ที่คุณอาจไม่ต้องใช้แล้ว เช่น ไฟล์ .dmg ของแอปที่ติดตั้งไว้แล้ว จะไม่มีสิ่งใดถูกย้ายไปที่ถังขยะจนกว่าคุณจะตรวจสอบและยืนยัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean, artık ihtiyacınız olmayabilecek yükleyicileri ve büyük dosyaları (örneğin zaten yüklü bir uygulamanın .dmg dosyasını) bulmak için İndirilenler klasöründeki dosyaları okur. Siz gözden geçirip onaylamadan hiçbir şey Çöp Sepetine taşınmaz."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean đọc các tệp trong Tải về để tìm các trình cài đặt và tệp lớn mà có thể bạn không còn cần, ví dụ tệp .dmg của một ứng dụng đã được cài đặt. Không có gì được chuyển vào Thùng rác cho đến khi bạn xem lại và xác nhận."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 会读取“下载”中的文件，以找出你可能不再需要的安装器和大文件，例如已安装应用的 .dmg 文件。在你检查并确认之前，不会有任何内容被移到废纸篓。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 會讀取「下載項目」中的檔案，以找出你可能不再需要的安裝程式和大型檔案，例如已安裝 App 的 .dmg 檔案。在你檢查並確認之前，不會有任何項目被移到垃圾桶。"
+          }
+        }
+      }
+    },
+    "NSHumanReadableCopyright" : {
+      "comment" : "Copyright (human-readable)",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "© 2026 OpenAppBox"
+          }
+        }
+      }
+    },
+    "NSNetworkVolumesUsageDescription" : {
+      "comment" : "Permission prompt: network drives",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ PureClean الملفات الموجودة على أقراص الشبكة فقط عندما تفحصها، مثلًا ليعرض المجلدات التي تملأ قرصًا مشتركًا. لا يُنقل أي شيء إلى سلة المهملات حتى تراجعه وتؤكده."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean læser kun filer på netværksdrev, når du scanner dem, for eksempel for at vise, hvilke mapper der fylder et delt drev. Intet flyttes til papirkurven, før du har gennemgået og bekræftet det."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean liest Dateien auf Netzlaufwerken nur, wenn du sie scannst, zum Beispiel um zu zeigen, welche Ordner ein freigegebenes Laufwerk füllen. Nichts kommt in den Papierkorb, bevor du es geprüft und bestätigt hast."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean reads files on network drives only when you scan them, for example to show which folders fill a shared drive. Nothing is moved to the Trash until you review and confirm it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean solo lee archivos de unidades de red cuando las analizas, por ejemplo, para mostrar qué carpetas llenan una unidad compartida. Nada se mueve a la Papelera hasta que lo revises y confirmes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lukee verkkolevyjen tiedostoja vain, kun skannaat ne, esimerkiksi näyttääkseen, mitkä kansiot täyttävät jaetun levyn. Mitään ei siirretä roskakoriin ennen kuin olet tarkistanut ja vahvistanut sen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean ne lit les fichiers des disques réseau que lorsque vous les analysez, par exemple pour montrer quels dossiers remplissent un disque partagé. Rien n’est placé dans la Corbeille avant que vous l’ayez vérifié et confirmé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean नेटवर्क ड्राइव की फ़ाइलें तभी पढ़ता है जब आप उन्हें स्कैन करते हैं, जैसे यह दिखाने के लिए कि शेयर की गई ड्राइव किन फ़ोल्डरों से भरी है। जब तक आप समीक्षा करके पुष्टि नहीं करते, कुछ भी ट्रैश में नहीं जाता।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean hanya membaca file di drive jaringan saat Anda memindainya, misalnya untuk menunjukkan folder mana yang memenuhi drive bersama. Tidak ada yang dipindahkan ke Sampah sebelum Anda meninjau dan mengonfirmasinya."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean legge i file dei dischi di rete solo quando li analizzi, per esempio per mostrare quali cartelle riempiono un disco condiviso. Nulla viene spostato nel Cestino finché non lo hai controllato e confermato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean は、ネットワークドライブのファイルをスキャンしたときにだけ読み取ります（共有ドライブをどのフォルダが占めているかを表示するためなど）。確認して承認するまで、何もゴミ箱に移動されません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean은 네트워크 드라이브를 스캔할 때만 해당 파일을 읽습니다(예: 어떤 폴더가 공유 드라이브를 채우고 있는지 보여 주기 위해). 검토하고 확인하기 전에는 아무것도 휴지통으로 이동하지 않습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leser bare filer på nettverksdisker når du skanner dem, for eksempel for å vise hvilke mapper som fyller en delt disk. Ingenting flyttes til papirkurven før du har gått gjennom og bekreftet det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leest bestanden op netwerkschijven alleen als je ze scant, bijvoorbeeld om te laten zien welke mappen een gedeelde schijf vullen. Niets gaat naar de prullenmand voordat je het hebt bekeken en bevestigd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean odczytuje pliki na dyskach sieciowych tylko wtedy, gdy je skanujesz, na przykład aby pokazać, które foldery zapełniają dysk udostępniony. Nic nie trafia do kosza, dopóki tego nie przejrzysz i nie potwierdzisz."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PureClean só lê arquivos de discos de rede quando você os analisa, por exemplo, para mostrar quais pastas enchem um disco compartilhado. Nada vai para o Lixo até você revisar e confirmar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean читает файлы на сетевых дисках, только когда вы их сканируете, например чтобы показать, какие папки занимают общий диск. Ничего не перемещается в Корзину, пока вы не просмотрите и не подтвердите это."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean läser bara filer på nätverksenheter när du skannar dem, till exempel för att visa vilka mappar som fyller en delad enhet. Ingenting flyttas till papperskorgen förrän du har granskat och bekräftat det."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean อ่านไฟล์บนไดรฟ์เครือข่ายเฉพาะเมื่อคุณสแกนเท่านั้น เช่น เพื่อแสดงว่าโฟลเดอร์ใดใช้พื้นที่ไดรฟ์ที่แชร์ จะไม่มีสิ่งใดถูกย้ายไปที่ถังขยะจนกว่าคุณจะตรวจสอบและยืนยัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean, ağ disklerindeki dosyaları yalnızca siz onları taradığınızda okur; örneğin paylaşılan bir diski hangi klasörlerin doldurduğunu göstermek için. Siz gözden geçirip onaylamadan hiçbir şey Çöp Sepetine taşınmaz."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean chỉ đọc tệp trên ổ đĩa mạng khi bạn quét chúng, ví dụ để cho biết thư mục nào đang làm đầy ổ đĩa dùng chung. Không có gì được chuyển vào Thùng rác cho đến khi bạn xem lại và xác nhận."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 仅在你扫描网络驱动器时读取其中的文件，例如显示哪些文件夹占满了共享驱动器。在你检查并确认之前，不会有任何内容被移到废纸篓。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 只會在你掃描網路磁碟時讀取其中的檔案，例如顯示哪些檔案夾佔滿了共享磁碟。在你檢查並確認之前，不會有任何項目被移到垃圾桶。"
+          }
+        }
+      }
+    },
+    "NSRemovableVolumesUsageDescription" : {
+      "comment" : "Permission prompt: external drives",
+      "extractionState" : "manual",
+      "localizations" : {
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "يقرأ PureClean الملفات الموجودة على الأقراص الخارجية فقط عندما تفحصها، مثلًا ليعرض المجلدات التي تملأ قرص USB. لا يُنقل أي شيء إلى سلة المهملات حتى تراجعه وتؤكده."
+          }
+        },
+        "da" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean læser kun filer på eksterne drev, når du scanner dem, for eksempel for at vise, hvilke mapper der fylder et USB-drev. Intet flyttes til papirkurven, før du har gennemgået og bekræftet det."
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean liest Dateien auf externen Laufwerken nur, wenn du sie scannst, zum Beispiel um zu zeigen, welche Ordner einen USB-Stick füllen. Nichts kommt in den Papierkorb, bevor du es geprüft und bestätigt hast."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean reads files on external drives only when you scan them, for example to show which folders fill a USB drive. Nothing is moved to the Trash until you review and confirm it."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean solo lee archivos de discos externos cuando los analizas, por ejemplo, para mostrar qué carpetas llenan una memoria USB. Nada se mueve a la Papelera hasta que lo revises y confirmes."
+          }
+        },
+        "fi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean lukee ulkoisten levyjen tiedostoja vain, kun skannaat ne, esimerkiksi näyttääkseen, mitkä kansiot täyttävät USB-levyn. Mitään ei siirretä roskakoriin ennen kuin olet tarkistanut ja vahvistanut sen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean ne lit les fichiers des disques externes que lorsque vous les analysez, par exemple pour montrer quels dossiers remplissent une clé USB. Rien n’est placé dans la Corbeille avant que vous l’ayez vérifié et confirmé."
+          }
+        },
+        "hi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean बाहरी ड्राइव की फ़ाइलें तभी पढ़ता है जब आप उन्हें स्कैन करते हैं, जैसे यह दिखाने के लिए कि USB ड्राइव किन फ़ोल्डरों से भरी है। जब तक आप समीक्षा करके पुष्टि नहीं करते, कुछ भी ट्रैश में नहीं जाता।"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean hanya membaca file di drive eksternal saat Anda memindainya, misalnya untuk menunjukkan folder mana yang memenuhi drive USB. Tidak ada yang dipindahkan ke Sampah sebelum Anda meninjau dan mengonfirmasinya."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean legge i file dei dischi esterni solo quando li analizzi, per esempio per mostrare quali cartelle riempiono una chiavetta USB. Nulla viene spostato nel Cestino finché non lo hai controllato e confermato."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean は、外部ドライブのファイルをスキャンしたときにだけ読み取ります（USBドライブをどのフォルダが占めているかを表示するためなど）。確認して承認するまで、何もゴミ箱に移動されません。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean은 외장 드라이브를 스캔할 때만 해당 파일을 읽습니다(예: 어떤 폴더가 USB 드라이브를 채우고 있는지 보여 주기 위해). 검토하고 확인하기 전에는 아무것도 휴지통으로 이동하지 않습니다."
+          }
+        },
+        "nb" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leser bare filer på eksterne disker når du skanner dem, for eksempel for å vise hvilke mapper som fyller en USB-disk. Ingenting flyttes til papirkurven før du har gått gjennom og bekreftet det."
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean leest bestanden op externe schijven alleen als je ze scant, bijvoorbeeld om te laten zien welke mappen een USB-stick vullen. Niets gaat naar de prullenmand voordat je het hebt bekeken en bevestigd."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean odczytuje pliki na dyskach zewnętrznych tylko wtedy, gdy je skanujesz, na przykład aby pokazać, które foldery zapełniają dysk USB. Nic nie trafia do kosza, dopóki tego nie przejrzysz i nie potwierdzisz."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PureClean só lê arquivos de discos externos quando você os analisa, por exemplo, para mostrar quais pastas enchem um pen drive. Nada vai para o Lixo até você revisar e confirmar."
+          }
+        },
+        "ru" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean читает файлы на внешних дисках, только когда вы их сканируете, например чтобы показать, какие папки занимают USB-накопитель. Ничего не перемещается в Корзину, пока вы не просмотрите и не подтвердите это."
+          }
+        },
+        "sv" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean läser bara filer på externa enheter när du skannar dem, till exempel för att visa vilka mappar som fyller en USB-enhet. Ingenting flyttas till papperskorgen förrän du har granskat och bekräftat det."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean อ่านไฟล์บนไดรฟ์ภายนอกเฉพาะเมื่อคุณสแกนเท่านั้น เช่น เพื่อแสดงว่าโฟลเดอร์ใดใช้พื้นที่ไดรฟ์ USB จะไม่มีสิ่งใดถูกย้ายไปที่ถังขยะจนกว่าคุณจะตรวจสอบและยืนยัน"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean, harici disklerdeki dosyaları yalnızca siz onları taradığınızda okur; örneğin bir USB belleği hangi klasörlerin doldurduğunu göstermek için. Siz gözden geçirip onaylamadan hiçbir şey Çöp Sepetine taşınmaz."
+          }
+        },
+        "vi" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean chỉ đọc tệp trên ổ đĩa ngoài khi bạn quét chúng, ví dụ để cho biết thư mục nào đang làm đầy ổ USB. Không có gì được chuyển vào Thùng rác cho đến khi bạn xem lại và xác nhận."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 仅在你扫描外置驱动器时读取其中的文件，例如显示哪些文件夹占满了 U 盘。在你检查并确认之前，不会有任何内容被移到废纸篓。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PureClean 只會在你掃描外接磁碟時讀取其中的檔案，例如顯示哪些檔案夾佔滿了 USB 隨身碟。在你檢查並確認之前，不會有任何項目被移到垃圾桶。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
